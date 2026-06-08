@@ -6,4 +6,4 @@ def adarsh(num):
     result.append(num)
     return result
 
-print(adarsh(67))
+print(adarsh(67)) 
